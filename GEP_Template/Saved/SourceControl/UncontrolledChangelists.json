@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/CollectableFolder/ACollectable.uasset",
+				"D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XV/LYR8WLIBJH88BV8K85507H.uasset",
+				"D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/CollectableFolder/Collectable.uasset",
+				"D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/Q0/55G1XXKFX7K0Y06QEF7AA5.uasset",
+				"D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/99/DRW94KM0335LRV8G0YNV9M.uasset",
+				"D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/CollectableFolder/CollectableUI.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
