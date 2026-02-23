@@ -3851,3 +3851,21 @@ Sampler Limit: 32
 [2026.02.23-12.48.32:152][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9881.915039
 [2026.02.23-12.48.33:152][  1]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.23-12.48.33:152][  1]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9882.581055, Update Interval: 305.733215
+[2026.02.23-12.49.12:426][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.02.23-12.49.16:344][554]LogSlate: Window 'Save Content' being destroyed
+[2026.02.23-12.49.16:388][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-12.49.16:453][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CollectableFolder/CollectableUI] ([2] browsable assets)...
+[2026.02.23-12.49.16:453][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/CollectableFolder/CollectableUI]
+[2026.02.23-12.49.16:453][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CollectableFolder/CollectableUI" FILE="D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/CollectableFolder/CollectableUI.uasset" SILENT=true
+[2026.02.23-12.49.16:466][554]LogSavePackage: Moving output files for package: /Game/CollectableFolder/CollectableUI
+[2026.02.23-12.49.16:468][554]LogSavePackage: Moving 'D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Saved/CollectableUI6C47F3A04D4DD596F040EE8A2591A2A6.tmp' to 'D:/gep-25-26-unreal-template-DanielB-S/GEP_Template/Content/CollectableFolder/CollectableUI.uasset'
+[2026.02.23-12.49.16:480][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.875 ms (total: 827.391 ms)
+[2026.02.23-12.49.16:556][554]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-12.49.16:556][554]LogContentValidation: Enabled validators:
+[2026.02.23-12.49.16:556][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-12.49.16:556][554]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-12.49.16:557][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-12.49.16:557][554]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-12.49.16:557][554]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-12.49.16:557][554]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-12.49.16:558][554]AssetCheck: /Game/CollectableFolder/CollectableUI Validating asset
